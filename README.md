@@ -1,3 +1,4 @@
+Tarefa ápos ver as videos aulas -> 
 
 Criar Projeto Em MVVM seguindo esse tutorial de videos que eu montei: https://github.com/tihasg/Recyclerview-android-MVVM-VIDEOS-AULAS
 
